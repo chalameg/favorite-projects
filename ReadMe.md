@@ -46,6 +46,7 @@ then open localhost:3000
 
 
 ## project structure
+```bash
 react-webpack-app/
 ├── public/
 │   └── index.html
@@ -67,3 +68,4 @@ react-webpack-app/
 ├── package.json
 ├── webpack.config.js
 └── README.md
+```
